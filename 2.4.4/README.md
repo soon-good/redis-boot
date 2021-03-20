@@ -10,9 +10,9 @@
   - 메인으로 참고한 자료. 기본적인 컨셉을 참고할 수 있어서 유용하게 참고했다.
   - 이분 블로그를 자주 보다보면 공식 문서에서 필요한 부분을 어떻게 찾아서 적용하는지 조금씩 적응이 되는 것 같음
   - 블로그 글을 먼저 보지 않았다면 공식 문서를 처음부터 끝까지 정독하다가 지쳤을 듯.
-
 - [사바라다는 차곡차곡 - RedisTemplate](https://sabarada.tistory.com/105)
 - [사바라다는 차곡차곡 - RedisRepository](https://sabarada.tistory.com/106)
+- [와이케이의 마구잡이 - Spring 에서 Redis 설정](https://yookeun.github.io/java/2017/05/21/spring-redis/) 
 
 
 
