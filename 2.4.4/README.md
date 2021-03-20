@@ -1,4 +1,4 @@
-# Redis Template 사용해보기 
+# Spring Boot 에서 Redis 사용해보기 (spring-data-redis)
 
 # 참고자료
 
@@ -35,6 +35,19 @@
 
 - [Redis Sorted Set](https://jupiny.com/2020/03/28/redis-sorted-set/)
   - ZSet 의 개념에 대해서 설명해주고 있다.
+
+
+
+# Spring Data Redis
+
+Redis 를 스프링에서 사용할 때 보통은 먼저 아래의 두가지 방식 중 하나를 선택한다.
+
+- RedisTemplate 를 사용하는 간단한 key/value store 방식
+  - RedisTemplate 을 이용한 방식이다. 
+  - 이 방식에 대해서는 추후에 세부 문서로 따로 정리할 예정이다.
+- RedisRepository 를 사용한 key/value store 방식
+  - 객체 모델링을 활용한 방식이다.
+  - 이 방식에 대해서는 추후에 세부 문서에 따로 정리할 예정이다.
 
 
 
